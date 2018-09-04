@@ -1,1 +1,1 @@
-# CIFAR-10
+# Image Classification on CIFAR-10 by training model of CNN and Hybrid-5 using Tensorflow.
